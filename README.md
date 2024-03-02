@@ -1,6 +1,6 @@
 # Test GitHub README.md
 
-This project is the fist time I push code to git/github by command.
+This project is my first time pushing code to git/github by command.
 
 ## Description
 
